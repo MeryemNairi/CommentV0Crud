@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.19.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "comment-v-0-crud",
+    "libraryId": "99f2a304-9729-4d17-b0b6-7383a9211ed6",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "comment-v-0-crud",
+    "solutionShortDescription": "comment-v-0-crud description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

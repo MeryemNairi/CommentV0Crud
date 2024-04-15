@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "comment-v-0-crud-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/commentV0Crud/CommentV0CrudWebPart.js",
+          "manifest": "./src/webparts/commentV0Crud/CommentV0CrudWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "CommentV0CrudWebPartStrings": "lib/webparts/commentV0Crud/loc/{locale}.js"
+  }
+}

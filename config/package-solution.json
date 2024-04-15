@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "comment-v-0-crud-client-side-solution",
+    "id": "99f2a304-9729-4d17-b0b6-7383a9211ed6",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "comment-v-0-crud description"
+      },
+      "longDescription": {
+        "default": "comment-v-0-crud description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "comment-v-0-crud Feature",
+        "description": "The feature that activates elements of the comment-v-0-crud solution.",
+        "id": "8e46d3f7-9a8a-48aa-8890-f2df24c85492",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/comment-v-0-crud.sppkg"
+  }
+}
